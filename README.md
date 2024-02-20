@@ -12,14 +12,14 @@ Mask R-CNN is a popular deep learning model for object detection and segmentatio
 In this implementation, TensorFlow's Keras API is used. Specifically, the following imports have been made:
 
 python
-from tensorflow.keras import backend as K
+```from tensorflow.keras import backend as K
 from tensorflow.keras import layers as KL
 from tensorflow.keras import models as KM
 
 
 
 
-## Usage
+Usage
 Clone this repository to your local machine:
 
 git clone https://github.com/ahmedfgad/Mask-RCNN-TF2.git
@@ -30,7 +30,8 @@ cd Mask-RCNN-TF2
 
 Replace mrcnn--> model.py with this repository model.py
 
-run python maskrcnn_predict.py```
+run python maskrcnn_predict.py
+```
 
 ## Example
 
