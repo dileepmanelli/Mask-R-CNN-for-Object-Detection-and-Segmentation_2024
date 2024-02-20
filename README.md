@@ -12,7 +12,8 @@ Mask R-CNN is a popular deep learning model for object detection and segmentatio
 In this implementation, TensorFlow's Keras API is used. Specifically, the following imports have been made:
 
 python
-```from tensorflow.keras import backend as K
+```
+from tensorflow.keras import backend as K
 from tensorflow.keras import layers as KL
 from tensorflow.keras import models as KM
 
