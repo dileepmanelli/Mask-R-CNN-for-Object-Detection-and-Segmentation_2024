@@ -1,0 +1,12 @@
+numpy==1.22.1
+scipy==1.7.3
+Pillow==9.0.0
+cython==0.29.30
+matplotlib==3.5.1
+scikit-image==0.19.0
+tensorflow==2.8.0
+keras==2.8.0rc0
+opencv-python==4.5.5.62
+h5py==3.10.0
+imgaug==0.4.0
+IPython[all]
