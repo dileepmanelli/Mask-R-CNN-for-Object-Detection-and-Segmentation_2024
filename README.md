@@ -33,7 +33,7 @@ Replace mrcnn--> model.py with this repository model.py
 run python maskrcnn_predict.py
 ```
 
-## Example
+## Predictions
 
 ![Prediction 1](https://github.com/dileepmanelli/Mask-R-CNN-for-Object-Detection-and-Segmentation_2024/blob/main/Prediction1.png)
 
